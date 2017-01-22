@@ -1,0 +1,15 @@
+JL14B02/r_e_20150105_3_1_1_2.fits    2015-01-05T20:57:33.017    10.0147    6    hanging off edge
+JL14B02/r_e_20150105_3_2_1_2.fits    2015-01-05T21:03:07.979    11.7741    8    hanging off edge
+JL14B02/r_e_20150105_3_3_1_2.fits    2015-01-05T21:08:42.758    13.5499    12    hanging off edge
+JL14B02/r_e_20150111_1_1_1_2.fits    2015-01-11T21:35:37.466    14.4212    18    veru bad weather that night, psf is very big
+JL14B02/r_e_20150111_1_2_1_2.fits    2015-01-11T21:41:14.968    4.66486    18    bad weather
+JL14B02/r_e_20150111_1_3_1_2.fits    2015-01-11T21:46:49.749    5.36923    18    bad weather
+JL14B02/r_e_20150116_5_1_1_2.fits    2015-01-16T22:01:33.799    5.99322    12    hanging off edge
+JL14B02/r_e_20150116_5_2_1_2.fits    2015-01-16T22:07:08.815    6.63378    15    hanging edge
+JL14B02/r_e_20150116_5_3_1_2.fits    2015-01-16T22:12:43.593    7.22078    6    hanging off edge
+JL14B02/r_e_20150121_9_1_1_2.fits    2015-01-21T22:28:34.116    7.68726    1    no source
+JL14B02/r_e_20150121_9_2_1_2.fits    2015-01-21T22:34:09.130    8.24078    1    no source
+JL14B02/r_e_20150121_9_3_1_2.fits    2015-01-21T22:39:45.724    8.81792    1    no source
+JL14B02/r_e_20150126_13_1_1_2.fits    2015-01-26T22:56:28.226    9.43317    10    hanging off edge
+JL14B02/r_e_20150126_13_2_1_2.fits    2015-01-26T23:02:03.096    9.93566    12    large cosmic at other side of cube - also hanging off edge
+JL14B02/r_e_20150126_13_3_1_2.fits    2015-01-26T23:07:36.952    10.4314    6    hanging off edge

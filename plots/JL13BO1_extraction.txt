@@ -1,0 +1,12 @@
+JL13BO1/r_e_20130726_19_1_1_2.fits    2013-07-27T05:24:48.157    22.9908    20    good
+JL13BO1/r_e_20130726_19_2_1_2.fits    2013-07-27T05:30:18.353    25.8738    20    good
+JL13BO1/r_e_20130726_19_3_1_2.fits    2013-07-27T05:35:48.125    28.2825    15    changed extraction, to slightly lower
+JL13BO1/r_e_20130819_17_1_1_2.fits    2013-08-20T04:26:39.032    28.4106    15    ok
+JL13BO1/r_e_20130819_17_2_1_2.fits    2013-08-20T04:32:09.539    29.5418    15    ok, drop after first pixel
+JL13BO1/r_e_20130819_17_3_1_2.fits    2013-08-20T04:37:39.625    29.5971    11    ok
+JL13BO1/r_e_20130908_20_1_1_2.fits    2013-09-09T05:03:14.536    31.0628    15    ok
+JL13BO1/r_e_20130908_20_2_1_2.fits    2013-09-09T05:08:51.899    31.0335    15    2 edge pixels like the previous
+JL13BO1/r_e_20130908_20_3_1_2.fits    2013-09-09T05:14:22.028    31.1059    15    ok
+JL13BO1/r_e_20130929_11_1_1_2.fits    2013-09-30T03:43:42.603    30.7688    9    very concentrated
+JL13BO1/r_e_20130929_11_2_1_2.fits    2013-09-30T03:49:27.691    31.2657    9    very concentrated, could be reduced to 4 pixels
+JL13BO1/r_e_20130929_11_3_1_2.fits    2013-09-30T03:54:57.153    31.983    9    could be reduced again, v. concentrated
