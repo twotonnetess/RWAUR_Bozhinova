@@ -12,7 +12,7 @@ One problem we encountered with this data is that it is a robotic telescope, so 
 
 This first step in working with this data was to pick those data that were of usable quality and also test for signal loses in the cases that the star was not centered in the field of view. 
 
-In order to do this, I wrote my own reduction script (all of the functions are within Frodospec_class.py)), details of this script and what it entailed can be found in **spectrum_report.pdf.** 
+In order to do this, I wrote my own reduction script (all of the functions are within *Frodospec_class.py*), details of this script and what it entailed can be found in **spectrum_report.pdf.** 
 
 Scripts
 ------------
